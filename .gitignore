@@ -1,0 +1,32 @@
+# Generated manufacturing and analysis artifacts
+/outputs/
+
+# Local scratch files
+/work/
+/en/
+/tools/
+/.easyeda/
+
+# Legacy duplicate datasheets; public copies live in assets/datasheets/
+/assets/*.pdf
+/doc/datasheets/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Editors and operating systems
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp
+*~
+
