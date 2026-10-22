@@ -8,7 +8,7 @@
 - 工程名：`kepler x`
 - R14：`68 kΩ / C482226 / CRCW040268K0FKED`
 - ZIP 完整性：通过
-- SHA-256：`4df1b533b940ef023fc024623dc8ea18bf4d3b52ec75df7e5a788436d72194dc`
+- SHA-256：`aab3ad9f82fd1fe68a77f512733f4d503387ec3e2fdb65759f6de9f793731f2f`
 
 `restoreVerified=false`：导出文件通过 ZIP 结构与 CRC 检查，但没有导入到新的 EasyEDA 工程后再验证。修改或再发布前，应在 EasyEDA Pro 中重新打开归档并检查原理图页、PCB、板框及器件值。
 
