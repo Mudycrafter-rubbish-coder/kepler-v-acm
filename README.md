@@ -56,6 +56,8 @@ The UART switching was added because the MCU has one useful UART. A laptop can c
 
 J1 through J6 are direct-solder pads on a 2.54 mm pitch. They are not populated. Servo current comes from a separate BEC and must never load the board's 3.3 V regulator.
 
+The top silkscreen names each solder pad with a short net label, such as `U5TX`, `SERVO1`, `AVI`, or `SWIO`. The labels use the pad position itself as the placement guide, so the harness can be checked without opening the schematic.
+
 ## System architecture
 
 ```mermaid

@@ -7,7 +7,7 @@
 - 工程 UUID：`f548c6ce5ccadd461f5fdd9284854e74b0a72f84427e5bbb7b8062955da6f821`
 - R14：`68 kΩ / C482226 / CRCW040268K0FKED`
 - ZIP 完整性：通过
-- SHA-256：`c9ba1fc12ba8fc8a6fc59efd6d64deee4cb73adf744c26e8ac1acab1f87fa339`
+- SHA-256：`e033fb7e8d2fe8b7e83355b19950ab71cd3741a7ad2f7d5fbcc162c4b9935cfc`
 
 `restoreVerified=false`：导出文件通过 ZIP 结构与 CRC 检查，但没有导入到新的 EasyEDA 工程后再验证。修改或再发布前，应在 EasyEDA Pro 中重新打开归档并检查原理图页、PCB、板框及器件值。
 
