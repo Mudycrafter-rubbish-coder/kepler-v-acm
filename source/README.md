@@ -4,10 +4,13 @@
 
 该文件已于 2026-10-22 从当前 EasyEDA 工程重新导出，并核对：
 
-- 工程 UUID：`f548c6ce5ccadd461f5fdd9284854e74b0a72f84427e5bbb7b8062955da6f821`
+- 工程 UUID：`d5093b39604347a8887163434cfacd40`
+- 工程名：`kepler x`
 - R14：`68 kΩ / C482226 / CRCW040268K0FKED`
 - ZIP 完整性：通过
-- SHA-256：`e033fb7e8d2fe8b7e83355b19950ab71cd3741a7ad2f7d5fbcc162c4b9935cfc`
+- SHA-256：`4df1b533b940ef023fc024623dc8ea18bf4d3b52ec75df7e5a788436d72194dc`
 
 `restoreVerified=false`：导出文件通过 ZIP 结构与 CRC 检查，但没有导入到新的 EasyEDA 工程后再验证。修改或再发布前，应在 EasyEDA Pro 中重新打开归档并检查原理图页、PCB、板框及器件值。
+
+J1 到 J6 使用个人库内的无 3D 裸通孔焊盘器件。归档保留了这些器件的引用；在另一账号打开时，如个人库未同步，应先提取或重建对应库。
 
