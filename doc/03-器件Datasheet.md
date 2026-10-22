@@ -1,6 +1,8 @@
 # KEPLER V 辅助控制模块器件 Datasheet
 
-`assets/datasheets/` 收录当前 V1 BOM 中主要有源器件和保护器件的原厂或厂商 PDF。文件已按型号、版本和封装用途重新命名；阻容、LED 和 USB-C 连接器没有单列在这里。
+[项目主页](../README.md) | [English README](../README.md) | [中文 README](../README.zh-CN.md)
+
+`assets/datasheets/` 保存 V1 主要芯片和保护器件的厂商 PDF。文件名带有型号、版本或发布日期，方便复刻时确认资料没有过期。阻容、LED 和 USB-C 连接器没有单独收录。
 
 ## 快速索引
 
@@ -67,3 +69,9 @@
 | 74HC_HCT4053_Rev9_2016-02-10.pdf | `BF85DBC69DAAAE2C4E9987B0E61623E3823E45D31D6CFACFE38D9FB85AC7EB87` |
 | USBLC6-2SC6_UMW_2024-11.pdf | `973EA7520F3CD820E2C9326FCF3EE3CA5239CFF491D6F42DE057573942DCDF83` |
 | BAT54_Series_Rev5_2012-10-05.pdf | `3EC7FB498B904480ABAB9A548ED918B2EA5504BED6F82D5B0A1E4C304D52214F` |
+
+## 使用说明
+
+原理图、布局和采购检查应以对应的精确型号为准。型号相近但封装或引脚定义不同的器件不能直接替换，尤其是 74HC4053、USBLC6、XC6206 和 BAT54 系列。
+
+这些数据手册由各自的制造商发布。文件保留原厂版权和许可，不适用本项目的 MIT 许可证。
